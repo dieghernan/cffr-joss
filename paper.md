@@ -1,21 +1,14 @@
 ---
-title: 'tidygeocoder: An R package for geocoding'
+title: 'cffr: Generate Citation File Format Metadata for R Packages'
 tags:
   - R
-  - geocoding
-  - geospatial
+  - cff
+  - citation
+  - credit
+  - metadata
 authors:
-  - name: Jesse Cambon
-    orcid: 0000-0001-6854-1514
-    affiliation: 1
   - name: Diego Hernangómez
     orcid: 0000-0001-8457-4658
-    affiliation: 1
-  - name: Christopher Belanger
-    orcid: 0000-0003-2070-5721
-    affiliation: 1
-  - name: Daniel Possenriede
-    orcid: 0000-0002-6738-9845
     affiliation: 1
 affiliations:
  - name: Independent Researcher
